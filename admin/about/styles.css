@@ -1,0 +1,114 @@
+/* About Page Styles */
+
+.bc-about-product-title {
+	font-size: 16px;
+}
+
+.bc-about-product-version {
+	font-size: 11px;
+}
+
+.bc-about-product-thumb {
+	width: 70px;
+	float: left;
+	padding: 2px;
+	border-radius: 5px;
+	margin-right: 5px;
+}
+
+.bc-about-author-promo {
+	border: 1px dashed #ccc;
+	padding: 5px;
+	color: #858282;
+	font-size: 11px;
+	text-align: center;
+}
+
+.bc-about-author-promo-desc {
+	font-weight: bold;
+}
+
+.bc-about-author-promo-code {
+	font-weight: bold;
+}
+
+.inside .bc-about-author-products td .button {
+	margin-left: 5px;
+}
+
+.inside .bc-about-author-products td {
+	vertical-align: top !important;
+}
+
+.bc-about-author-product p {
+	text-align: justify;
+}
+
+.bc-about-author-authors .avatar,
+.bc-about-author-authors-inline .avatar{
+    float: left;
+    position: relative;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+
+.bc-about-author-authors-inline .bc-about-author-author:not(:first-child) {
+	margin-left: 20px;
+}
+
+.bc-about-author-authors-inline .bc-about-author-author {
+	float: left;
+}
+
+.bc-about-author-authors-inline .bc-about-author-author-name {
+	margin-left: 45px;
+	margin-top: 5px;
+	font-size: 12px;
+	display: block;
+}
+
+.bc-about-author-authors .bc-about-author-author {
+	margin-top: 20px;
+}
+
+.bc-about-author-authors .bc-about-author-author-name {
+	margin-left: 65px;
+	margin-top: 5px;
+	font-size: 15px;
+	display: block;
+}
+
+.bc-about-author-authors .bc-about-author-author-bio {
+	margin-left: 65px;
+	font-size: 14px;
+}
+
+.bc-about-author-products .bc-about-author-theme p {
+	margin-top: 15px !important;
+}
+
+.bc-about-author-products .bc-about-author-theme fieldset {
+	border: 1px solid #F3F3F3;
+	margin-top: 10px;
+	padding: 4px;
+	font-size: 12px;
+}
+
+.bc-about-author-products .bc-about-author-theme fieldset legend {
+	font-weight: bold;
+}
+
+.bc-about-social {
+	margin-top: 20px;
+	margin-left: 65px;
+}
+
+.bc-about-social a {
+	text-decoration: none;
+	margin-right: 10px;
+}
+
+.bc-about-social .dashicons {
+	font-size: 25px;
+}
